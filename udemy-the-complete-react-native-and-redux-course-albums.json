@@ -5,7 +5,7 @@
     "artist": "Guns N' Roses",
     "url": "https://www.amazon.com/Appetite-Destruction-Guns-N-Roses/dp/B000000OQF",
     "image": "https://raw.githubusercontent.com/haapio/apis/master/Appetite_For_Destruction.jpg",
-    "thubnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
+    "thumbnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "artist": "Guns N' Roses",
     "url": "https://www.amazon.com/G-N-Lies-Guns-Roses/dp/B000000OQY",
     "image": "https://raw.githubusercontent.com/haapio/apis/master/G_N_R_Lies.jpg",
-    "thubnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
+    "thumbnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "artist": "Guns N' Roses",
     "url": "https://www.amazon.com/Use-Your-Illusion-Guns-Roses/dp/B000000OSE",
     "image": "https://raw.githubusercontent.com/haapio/apis/master/Use_Your_Illusion_I.jpg",
-    "thubnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
+    "thumbnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "artist": "Guns N' Roses",
     "url": "https://www.amazon.com/Use-Your-Illusion-Guns-Roses/dp/B000000OSG",
     "image": "https://raw.githubusercontent.com/haapio/apis/master/Use_Your_Illusion_II.jpg",
-    "thubnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
+    "thumbnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "artist": "Guns N' Roses",
     "url": "https://www.amazon.com/Spaghetti-Incident-Guns-N-Roses/dp/B000000P17",
     "image": "https://raw.githubusercontent.com/haapio/apis/master/The_Spaghetti_Incident.jpg",
-    "thubnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
+    "thumbnail_image": "https://raw.githubusercontent.com/haapio/apis/master/Guns_N_Roses.jpg"
   }
 ]
